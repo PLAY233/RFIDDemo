@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFIDDemo", "RFIDDemo\RFIDDemo.csproj", "{95594BE2-FDF8-4498-A9E3-52D13698DBDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95594BE2-FDF8-4498-A9E3-52D13698DBDF}.Debug|x86.ActiveCfg = Debug|x86
+		{95594BE2-FDF8-4498-A9E3-52D13698DBDF}.Debug|x86.Build.0 = Debug|x86
+		{95594BE2-FDF8-4498-A9E3-52D13698DBDF}.Release|x86.ActiveCfg = Release|x86
+		{95594BE2-FDF8-4498-A9E3-52D13698DBDF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
